@@ -1,4 +1,4 @@
-module go-batcher
+module github.com/tilau2328/go-batcher
 
 go 1.20
 
